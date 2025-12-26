@@ -1,8 +1,8 @@
-# leetcode-solutions
+## 📂 Folder Structure
 leetcode-solutions/
 │── Arrays/
 │── Strings/
 │── Stack/
 │── Recursion/
-|── LinkedList/
+│── linked-list/
 │── README.md

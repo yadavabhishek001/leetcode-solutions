@@ -4,5 +4,5 @@ leetcode-solutions/
 │── Strings/
 │── Stack/
 │── Recursion/
-|── Linked List/
+|── LinkedList/
 │── README.md

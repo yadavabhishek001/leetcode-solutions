@@ -11,5 +11,4 @@ leetcode-solutions/
 
 | # | Problem | Solution |
 |---|--------|----------|
-| 1 | Two Sum | [C++](Arrays/1_Two_Sum.cpp) |
-| 26 | Remove Duplicates from Sorted Array | [C++](Arrays/26_Remove_Duplicates_from_Sorted_Array.cpp) |
+| 1 | Two Sum | [Java](Arrays/1_Two_Sum.java) |

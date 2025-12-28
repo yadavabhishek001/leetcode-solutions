@@ -11,6 +11,5 @@ leetcode-solutions/
 
 | # | Problem | Solution |
 |---|--------|----------|
-| 1 | Two Sum | [Java](https://github.com/yadavabhishek001/leetcode-solutions/blob/main/Arrays/1_Two_Sum.java) |
+| 1 | Two Sum | [Java](Arrays/1_Two_Sum.java) |
 | 2 | Majority Element | [Java](Arrays/169_Majority_Element.java) |
-| 3 | Palindrome Number | [Java](Arrays/9_Palindrome_Number.java)  |

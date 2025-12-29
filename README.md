@@ -19,5 +19,5 @@ leetcode-solutions/
 
 ## 📘 LinkedList
 | # | Problem | Solution |
-|---|---------|----------|
+|---|--------|----------|
 | 1 | Add Two Numbers | [Java](LinkedList/2_Add_Two_Numbers.java) |

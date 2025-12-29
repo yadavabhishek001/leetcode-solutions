@@ -16,3 +16,4 @@ leetcode-solutions/
 | 3 | Palindrome Number | [Java](Arrays/9_Palindrome_Number.java) |
 | 4 | Single Number | [Java](Arrays/136_Single_Number.java) |
 | 5 | Add Two Numbers | [Java](LinkedList/2_Add_Two_Numbers.java) |
+| 6 | Type of Triangle | [Java](Arrays/3024_Type_Of_Triangle.java) |

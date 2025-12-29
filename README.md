@@ -15,3 +15,4 @@ leetcode-solutions/
 | 2 | Majority Element | [Java](Arrays/169_Majority_Element.java) |
 | 3 | Palindrome Number | [Java](Arrays/9_Palindrome_Number.java) |
 | 4 | Single Number | [Java](Arrays/136_Single_Number.java) |
+| 5 | Add Two Numbers | [Java](LinkedList/2_Add_Two_Numbers.java) |

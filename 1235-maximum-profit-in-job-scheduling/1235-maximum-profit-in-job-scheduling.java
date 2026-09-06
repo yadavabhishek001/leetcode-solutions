@@ -1,13 +1,14 @@
 class Solution {
     private int findJobs(int i , int jobs[][]){
         int target = jobs[i][1];
+
         int left = i+1;
         int right = jobs.length;
 
         while(left < right){
             int mid = left + (right - left) / 2;
 
-            if(jobs[mid][0] >= target){
+            if( jobs[mid][0] >= target ){
                 right = mid;
             }
             else{
@@ -17,7 +18,7 @@ class Solution {
         return left;
     }
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
-        int n = startTime.length;
+        int n = profit.length;
 
         int jobs[][] = new int[n][3];
         for(int i = 0; i<n ; i++){
@@ -25,15 +26,15 @@ class Solution {
             jobs[i][1] = endTime[i];
             jobs[i][2] = profit[i];
         }
-        Arrays.sort(jobs , (a,b) -> a[0] - b[0] );
+        Arrays.sort(jobs , (a,b) -> (a[0] - b[0]));
 
         int dp[] = new int[n+1];
 
         for(int i = n-1; i>=0 ; i--){
             int next = findJobs(i , jobs);
             int taken = jobs[i][2] + dp[next];
-            int skip = dp[i+1];
-            dp[i] = Math.max(skip , taken);
+            int skip = dp[i + 1];
+            dp[i] = Math.max(taken , skip);
         }
         return dp[0];
     }

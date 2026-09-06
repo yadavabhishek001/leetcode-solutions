@@ -92,6 +92,7 @@ Practicing DSA consistently helps in:
 | [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +109,7 @@ Practicing DSA consistently helps in:
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Practicing DSA consistently helps in:
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -307,6 +310,7 @@ Practicing DSA consistently helps in:
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

@@ -84,6 +84,7 @@ Practicing DSA consistently helps in:
 | [0239-sliding-window-maximum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ Practicing DSA consistently helps in:
 | [0011-container-with-most-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
@@ -369,4 +371,8 @@ Practicing DSA consistently helps in:
 | [0410-split-array-largest-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
